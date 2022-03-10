@@ -1,0 +1,13 @@
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\bin\Debug\VarazsloIskolaCLI.exe.config
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\bin\Debug\VarazsloIskolaCLI.exe
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\bin\Debug\VarazsloIskolaCLI.pdb
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.csprojAssemblyReference.cache
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.exe
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.pdb
+Z:\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.csproj.CoreCompileInputs.cache
+\\10.0.1.1\tanulok\Megyesi.Richard\VarazsloiskolaCLI\VarazsloIskolaCLI\bin\Debug\VarazsloIskolaCLI.exe.config
+\\10.0.1.1\tanulok\Megyesi.Richard\VarazsloiskolaCLI\VarazsloIskolaCLI\bin\Debug\VarazsloIskolaCLI.exe
+\\10.0.1.1\tanulok\Megyesi.Richard\VarazsloiskolaCLI\VarazsloIskolaCLI\bin\Debug\VarazsloIskolaCLI.pdb
+\\10.0.1.1\tanulok\Megyesi.Richard\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.csprojAssemblyReference.cache
+\\10.0.1.1\tanulok\Megyesi.Richard\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.exe
+\\10.0.1.1\tanulok\Megyesi.Richard\VarazsloiskolaCLI\VarazsloIskolaCLI\obj\Debug\VarazsloIskolaCLI.pdb
